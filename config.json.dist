@@ -1,0 +1,25 @@
+{
+    "videoDir": "/mnt/d/Nextcloud MH/Raspi/files/video",
+    "mediaDir": "/mnt/c/Users/Martin/Desktop/media/raspi/video",
+    "connections": {
+            "pw": {
+            "host": "",
+            "user": "root",
+            "password": "",
+            "assetId": "pw"
+        },
+        "marlen": {
+            "host": "",
+            "user": "root",
+            "password": "",
+            "assetId": "marlen"
+        }
+    },
+    "os": "windows|linux",
+    "source": "ard|zdf|wdr|dm",
+    "mode": "maus|conni|bibi",
+    "urls": [
+        ["anglerglueck", "https://..."],
+        ["apfelbaum", "https://..."]
+    ]
+}
