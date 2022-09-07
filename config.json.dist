@@ -1,4 +1,6 @@
 {
+    "videoDir": "/mnt/c/Users/helfer/Desktop/Nextcloud/Raspi/video",
+    "mediaDir": "/mnt/c/Users/helfer/Desktop/media/raspi/video",
     "os": "windows|linux",
     "source": "ard|zdf|wdr|dm",
     "mode": "maus|conni|bibi",
