@@ -1,5 +1,5 @@
 {
-    "videoDir": "/mnt/d/Nextcloud MH/Raspi/files/video",
+    "videoDir": "/mnt/d/Nextcloud MH/Raspi/video",
     "mediaDir": "/mnt/c/Users/Martin/Desktop/media/raspi/video",
     "os": "windows|linux",
     "source": "ard|zdf|wdr|dm",
