@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "download": "^8.0.0",
+    "download": "^3.3.0",
     "fs-extra": "^10.0.0",
     "get-video-duration": "^4.0.0",
     "glob": "^7.2.0",
